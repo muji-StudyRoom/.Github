@@ -62,4 +62,9 @@ WebRTC 화상통화 서비스 EyesTalk
 ## 유저 시나리오
 ![image](https://user-images.githubusercontent.com/73453283/206053395-d6f99e0c-e5b0-4949-b9c3-8deafa2afd24.png)
 <br>
+<br>
+
+## 주요기술 및 라이브러리
+#### Frontend
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
 
