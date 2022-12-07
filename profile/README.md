@@ -55,7 +55,7 @@ WebRTC 화상통화 서비스 EyesTalk
 <br>
 
 ## 클라우드 아키텍쳐
-![image](https://user-images.githubusercontent.com/73453283/206053488-6885441e-91f4-485e-83b7-39b3b0495551.png)
+![image](https://user-images.githubusercontent.com/73453283/206058652-2d2d6726-3461-4fd5-b6ab-94778d82ecbe.png)
 <br>
 
 ## 유저 시나리오
