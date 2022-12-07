@@ -1,5 +1,7 @@
 ![KakaoTalk_Image_2022-12-07-09-41-27](https://user-images.githubusercontent.com/73453283/206058999-38396216-f7cd-4e61-8f4e-40c6c14af4b4.png)
 
+<img src="https://user-images.githubusercontent.com/73453283/206058999-38396216-f7cd-4e61-8f4e-40c6c14af4b4.png">
+
 ## EyesTalk
 카카오클라우드 스쿨 개발자 1기 Final Project
 WebRTC 화상통화 서비스 EyesTalk
