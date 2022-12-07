@@ -52,7 +52,8 @@ WebRTC 화상통화 서비스 **EyesTalk**
 - 생성된 방 목록중 방 제목을 입력하여 검색
 <br>
 
-![검색기능](https://user-images.githubusercontent.com/73453283/205800531-1b77adab-a221-47f2-886a-219df6d15235.gif)
+![2022-12-07 14 34 00](https://user-images.githubusercontent.com/73453283/206096994-8b1617a3-c454-4156-a816-aeede4d83856.gif)
+
 <br>
 
 <br>
