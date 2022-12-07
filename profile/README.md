@@ -51,10 +51,10 @@ WebRTC 화상통화 서비스 **EyesTalk**
 ### 검색기능
 - 생성된 방 목록중 방 제목을 입력하여 검색
 - 전체보기를 누르면 최신 생성 순으로 정렬된다
-- 
+
 <br>
 
-![2022-12-07 14 34 00](https://user-images.githubusercontent.com/73453283/206096994-8b1617a3-c454-4156-a816-aeede4d83856.gif)
+![2022-12-07 14 39 20](https://user-images.githubusercontent.com/73453283/206097669-8ded328f-da61-4a68-a1f9-45a01fc3c05c.gif)
 
 <br>
 
