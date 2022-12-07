@@ -1,3 +1,4 @@
+![로고-removebg-preview (2)](https://user-images.githubusercontent.com/88971743/206055454-6f43721d-43cc-4275-8a67-118fffc71934.png)
 # EyesTalk
 카카오클라우드 스쿨 개발자 1기 Final Project
 WebRTC 화상통화 서비스 EyesTalk
