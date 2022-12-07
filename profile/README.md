@@ -32,6 +32,9 @@ WebRTC 화상통화 서비스 **EyesTalk**
 - 방 제목을 선택하여 닉네임과 비밀번호를 입력하고 방 접속
 - 방에 동일한 닉네임이 있을경우 다른 닉네임으로 접속
 
+ ![2022-12-07 14 40 57](https://user-images.githubusercontent.com/73453283/206097937-8ccf6308-0b59-4bce-8bd7-d0e756711955.gif)
+
+
 <br>
 
 ### 메인기능
@@ -83,7 +86,7 @@ WebRTC 화상통화 서비스 **EyesTalk**
 #### Backend Server [👉click](https://github.com/muji-StudyRoom/spring-back)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger:3.0-47A248?style=flat-square&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-F05032?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-007396?style=flat-square&logo=mariadb&logoColor=white"/> 
 
-#### Signaling Server [👉click](https://github.com/muji-StudyRoom/server-python)
+#### Signarling Server [👉click](https://github.com/muji-StudyRoom/server-python)
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Redis-F80000?style=flat-square&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/Socket.Io-010101?style=flat-square&logo=Socket.IO&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-7952B3?style=flat-square&logo=Elasticsearch&logoColor=white"/>
 
 #### Ops   [👉click](https://github.com/muji-StudyRoom/eyestalk-manifest)
