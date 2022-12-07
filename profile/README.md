@@ -44,6 +44,12 @@ WebRTC 화상통화 서비스 **EyesTalk**
 - 사운드 ON/OFF
 - 화면공유
 
+![2022-12-07 15 21 31-min](https://user-images.githubusercontent.com/73453283/206104753-8e6a2534-5139-4aa0-84b6-a96dc8d5e13e.gif)
+
+
+
+
+
 <br>
 
 ### 화상채팅
