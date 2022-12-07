@@ -1,11 +1,11 @@
 ![KakaoTalk_Image_2022-12-07-09-41-27](https://user-images.githubusercontent.com/73453283/206058999-38396216-f7cd-4e61-8f4e-40c6c14af4b4.png)
 
-# EyesTalk
+## EyesTalk
 카카오클라우드 스쿨 개발자 1기 Final Project
 WebRTC 화상통화 서비스 EyesTalk
 
 ## Overview
-Eyes Talk은 비대면 시대에 맞춰 협업, 소통 등을 위한 다양한 기능을 제공하는 화상미팅 서비스입니다. 관심사에 맞는 회의방을 만들어 소통해보세요!
+**Eyes Talk**은 비대면 시대에 맞춰 협업, 소통 등을 위한 다양한 기능을 제공하는 화상미팅 서비스입니다. 관심사에 맞는 회의 방을 만들어 소통해보세요!
 
 <br>
 <br>
