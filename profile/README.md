@@ -1,5 +1,5 @@
 
-## <img src="https://user-images.githubusercontent.com/88971743/206073696-82753f8c-5b04-4d41-8e4a-474f498fe4f4.png" width="35px" height="28px">EyesTalk
+## <img src="https://user-images.githubusercontent.com/88971743/206073696-82753f8c-5b04-4d41-8e4a-474f498fe4f4.png" width="35px" height="28px" border-radius="50px">EyesTalk
 카카오클라우드 스쿨 개발자 1기 Final Project
 WebRTC 화상통화 서비스 EyesTalk
 
