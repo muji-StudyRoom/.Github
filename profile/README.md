@@ -18,7 +18,9 @@ WebRTC 화상통화 서비스 EyesTalk
 - 비디오와 마이크를 ON/OFF 설정하여 접속이 가능하다
 <br>
 
-![한자공부방생성](https://user-images.githubusercontent.com/73453283/205802622-0f3a8072-fdf0-42c6-a0c9-e678984abc3f.gif)
+![2022-12-07 12 09 13](https://user-images.githubusercontent.com/73453283/206078798-8dfda9cd-3511-49e4-b4fa-beb4df76ba91.gif)
+
+
 
 <br>
 
