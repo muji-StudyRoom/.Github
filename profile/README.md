@@ -22,6 +22,7 @@ WebRTC 화상통화 서비스 EyesTalk
 ### 방 접속
 - 방 제목을 선택하여 닉네임과 비밀번호를 입력하고 방을 접속할 수 있다
 - 방에 동일한 닉네임이 있을경우 다른 닉네임으로 접속해야한다
+![eyestalk입장](https://user-images.githubusercontent.com/80441723/206065825-3d05c31d-4432-453d-ae89-1b26c0a78d8f.gif)
 
 <br>
 
