@@ -71,11 +71,11 @@ WebRTC 화상통화 서비스 EyesTalk
 #### Frontend Server
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/WebRTC_Socket.IO-007396?style=flat-square&logo=SocketIO&logoColor=white"/>
 
-#### Backend Server
+#### Backend Server [👉click](https://github.com/muji-StudyRoom/spring-back)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger:3.0-47A248?style=flat-square&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-F05032?style=flat-square&logoColor=white">
 
-#### Signarling Server
+#### Signarling Server 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/WebRTC_Socket.IO-007396?style=flat-square&logo=SocketIO&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-F80000?style=flat-square&logo=Redis&logoColor=white"> 
 
-#### Ops
+#### Ops   [👉click](https://github.com/muji-StudyRoom/eyestalk-manifest)
 <img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat-square&logo=Amazon-EKS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Kustomize-007396?style=flat-square&logo=#FF9900&logoColor=white"/> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>
