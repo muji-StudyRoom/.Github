@@ -86,7 +86,7 @@ WebRTC 화상통화 서비스 **EyesTalk**
 #### Backend Server [👉click](https://github.com/muji-StudyRoom/spring-back)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger:3.0-47A248?style=flat-square&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-F05032?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-007396?style=flat-square&logo=mariadb&logoColor=white"/> 
 
-#### Signarling Server [👉click](https://github.com/muji-StudyRoom/server-python)
+#### Signaling Server [👉click](https://github.com/muji-StudyRoom/server-python)
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Redis-F80000?style=flat-square&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/Socket.Io-010101?style=flat-square&logo=Socket.IO&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-7952B3?style=flat-square&logo=Elasticsearch&logoColor=white"/>
 
 #### Ops   [👉click](https://github.com/muji-StudyRoom/eyestalk-manifest)
