@@ -7,7 +7,7 @@
 카카오클라우드 스쿨 개발자 1기 Final Project
 WebRTC 화상통화 서비스 EyesTalk
 
-## Overview
+## 👀 Overview
 **Eyes Talk**은 비대면 시대에 맞춰 협업, 소통 등을 위한 다양한 기능을 제공하는 화상미팅 서비스입니다. 관심사에 맞는 회의 방을 만들어 소통해보세요!
 
 ### 프로젝트 기간 - 2022.11.01 ~ 2022.12.13
@@ -15,7 +15,7 @@ WebRTC 화상통화 서비스 EyesTalk
 <br>
 <br>
 
-## EyesTalk 서비스 
+## 👀 EyesTalk 서비스 
 ### 방 생성
 - 방 생성자는 방제목, 수용인원, 닉네임, 비밀번호를 입력하고 방을 생성할 수 있다
 - 이때 수용인원은 4명 이하까지 설정이 가능하다
@@ -59,21 +59,21 @@ WebRTC 화상통화 서비스 EyesTalk
 <br>
 <br>
 
-## 서비스 아키택쳐
+## 👀 서비스 아키택쳐
 ![image](https://user-images.githubusercontent.com/73453283/206053042-111d4ef5-ed29-408b-8037-224a2d9319b2.png)
 
 <br>
 
-## 클라우드 아키텍쳐
+## 👀 클라우드 아키텍쳐
 ![image](https://user-images.githubusercontent.com/73453283/206058652-2d2d6726-3461-4fd5-b6ab-94778d82ecbe.png)
 <br>
 
-## 유저 시나리오
+## 👀 유저 시나리오
 ![image](https://user-images.githubusercontent.com/73453283/206053395-d6f99e0c-e5b0-4949-b9c3-8deafa2afd24.png)
 <br>
 <br>
 
-## 주요기술 및 라이브러리
+## 👀 주요기술 및 라이브러리
 #### Frontend Server
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/WebRTC-007396?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.Io-010101?style=flat-square&logo=Socket.IO&logoColor=white"/>
 
