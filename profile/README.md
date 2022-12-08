@@ -22,8 +22,7 @@ WebRTC 화상통화 서비스 **EyesTalk**
 - 비디오와 마이크를 ON/OFF 설정하여 접속 가능 
 <br>
 
-![2022-12-07 12 09 13](https://user-images.githubusercontent.com/73453283/206078798-8dfda9cd-3511-49e4-b4fa-beb4df76ba91.gif)
-
+![2022-12-08 09 11 50](https://user-images.githubusercontent.com/73453283/206324854-0251d303-19dd-43b8-a682-1008df37d375.gif)
 
 
 <br>
@@ -31,18 +30,20 @@ WebRTC 화상통화 서비스 **EyesTalk**
 ### 방 접속
 - 방 제목을 선택하여 닉네임과 비밀번호를 입력하고 방 접속
 - 방에 동일한 닉네임이 있을경우 다른 닉네임으로 접속
+<br>
 
- ![2022-12-07 14 40 57](https://user-images.githubusercontent.com/73453283/206097937-8ccf6308-0b59-4bce-8bd7-d0e756711955.gif)
+![2022-12-08 09 21 50](https://user-images.githubusercontent.com/73453283/206325918-7a90fa9a-ce70-446e-8042-a0c300777ff9.gif)
+
 
 
 <br>
 
 ### 메인기능
-- 나가기
-  - 방의 마지막 유저가 나갈 경우, 방이 자동으로 삭제 
 - 카메라 ON/OFF
 - 사운드 ON/OFF
 - 화면공유
+- 나가기
+  - 방의 마지막 유저가 나갈 경우, 방이 자동으로 삭제 
 
 ![2022-12-07 15 21 31-min](https://user-images.githubusercontent.com/73453283/206104753-8e6a2534-5139-4aa0-84b6-a96dc8d5e13e.gif)
 
