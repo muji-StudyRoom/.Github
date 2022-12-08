@@ -73,7 +73,9 @@
 <br>
 
 ## 👀 유저 시나리오
-![image](https://user-images.githubusercontent.com/73453283/206053395-d6f99e0c-e5b0-4949-b9c3-8deafa2afd24.png)
+![image](https://user-images.githubusercontent.com/73453283/206335547-11a53cb2-01fb-41fc-8902-3a9b761b97c7.png)
+
+
 <br>
 <br>
 
