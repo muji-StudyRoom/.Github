@@ -87,7 +87,7 @@ WebRTC 화상통화 서비스 **EyesTalk**
 <br>
 
 ## 👀 주요기술 및 라이브러리
-#### Frontend Server
+#### Frontend Server [👉click](https://github.com/muji-StudyRoom/react-front)
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/WebRTC-007396?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.Io-010101?style=flat-square&logo=Socket.IO&logoColor=white"/>
 
 #### Backend Server [👉click](https://github.com/muji-StudyRoom/spring-back)
