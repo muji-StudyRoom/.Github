@@ -52,6 +52,9 @@
 - 전체 채팅 전송 
 - 사용자를 지정하여 DM(Direct Message) 전송 
 
+<br>
+
+
 
 ### 검색기능
 - 생성된 방 목록중 방 제목을 입력하여 검색
@@ -68,12 +71,12 @@
 <br>
 
 ## 👀 서비스 아키택쳐
-![image](https://user-images.githubusercontent.com/73453283/206053042-111d4ef5-ed29-408b-8037-224a2d9319b2.png)
+![image](https://user-images.githubusercontent.com/73453283/207783670-1ffd9269-aa48-4341-aaac-f523a9d02f03.png)
 
 <br>
 
 ## 👀 클라우드 아키텍쳐
-![image](https://user-images.githubusercontent.com/73453283/206058652-2d2d6726-3461-4fd5-b6ab-94778d82ecbe.png)
+![image](https://user-images.githubusercontent.com/73453283/207783929-2c16b559-7d64-4a91-9637-b68781910f70.png)
 <br>
 
 ## 👀 유저 시나리오
@@ -82,6 +85,30 @@
 
 <br>
 <br>
+
+<br>
+
+## 👀 EyesTalk
+![image](https://user-images.githubusercontent.com/73453283/207780771-0d6f4ad1-6f8d-44f5-9013-9b3034d1b5e8.png)
+![image](https://user-images.githubusercontent.com/73453283/207780868-3adcfc57-a486-49f3-8219-23e99ec7bacf.png)
+![image](https://user-images.githubusercontent.com/73453283/207781154-e8df5bd1-4010-491a-abeb-323ae7179fd0.png)
+![image](https://user-images.githubusercontent.com/73453283/207781176-cc1bb57a-a7c0-4e9f-af56-74883f2d358d.png)
+![image](https://user-images.githubusercontent.com/73453283/207780986-08ee49d8-dac3-4cf4-9fce-dea2c012ae97.png)
+![image](https://user-images.githubusercontent.com/73453283/207780955-32ef8152-6881-4ef3-a227-89b73888db9b.png)
+![image](https://user-images.githubusercontent.com/73453283/207781235-7f8baea7-066a-4b94-81e2-403a8719bbc4.png)
+![image](https://user-images.githubusercontent.com/73453283/207781440-cfaaff7a-d914-4f1f-969e-ec1f1d8459e3.png)
+![image](https://user-images.githubusercontent.com/73453283/207781797-7cabdfea-d104-4f17-b24f-c64e0d75462d.png)
+![image](https://user-images.githubusercontent.com/73453283/207782111-8eb15a6e-988e-487a-918e-d5023137159e.png)
+![image](https://user-images.githubusercontent.com/73453283/207782159-a6e103ae-ea7e-4d29-a847-6756f97c9e9d.png)
+![image](https://user-images.githubusercontent.com/73453283/207782359-e286bfa0-043e-4220-9ade-b25210731002.png)
+![image](https://user-images.githubusercontent.com/73453283/207782391-23099003-b87f-4c2c-b2a1-9a16bfb26b8a.png)
+![image](https://user-images.githubusercontent.com/73453283/207782451-ad92b8c2-ec7d-4128-bd28-1f90ad2e2248.png)
+
+
+
+<br>
+<br>
+
 
 ## 👀 주요기술 및 라이브러리
 #### Frontend Server [👉click](https://github.com/muji-StudyRoom/react-front)
